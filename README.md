@@ -5,4 +5,4 @@
 - Streamlit Cloud에 연결하는 레포지토리
 
 ## 사용법
-- Streamlit Cloud
+- Streamlit Cloud에 github 네포지토리를 연결해줌
